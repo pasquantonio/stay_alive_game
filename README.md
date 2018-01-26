@@ -1,1 +1,3 @@
-# Stay Alive! - A Game
+# Stay Alive!
+
+![alt text] (screenshot.png)
